@@ -1,0 +1,12 @@
+
+<figure>
+  {{ $src := .Get "src" }}
+  {{ if or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+    <img src="{{ $src }}" alt="{{ .Get "alt" }}">
+  {{ else }}
+    <img src="{{ .Site.BaseURL }}{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+  {{ end }}
+  {{ with .Get "caption" }}
+    <figcaption>{{ . }}</figcaption>
+  {{ end }}
+</figure>

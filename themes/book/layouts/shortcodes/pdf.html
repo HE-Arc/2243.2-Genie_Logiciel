@@ -1,0 +1,6 @@
+{{ $src := .Get "src" }}
+{{ if or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+  <embed src="{{ $src }}" alt="{{ .Get "alt" }}" width= "100%" height= "600px" type="application/pdf" >
+{{ else }}
+  <embed src="{{ .Site.BaseURL }}{{ .Get "src" }}" alt="{{ .Get "alt" }}" width= "100%" height= "600px" type="application/pdf" >
+{{ end }}

@@ -1,0 +1,11 @@
+<!-- By BLC-->
+{{ $date := now }}
+{{ $author := "Generated content" }}
+{{ $commit := " " }}
+{{ if .GitInfo }}
+  {{ $date = .GitInfo.AuthorDate }}
+  {{ $author = .GitInfo.AuthorName }}
+  {{ $commit = .GitInfo.AbbreviatedHash }}
+{{ end }}
+
+<p style="text-align: right; font-size:small"><strong>LAST MODIFIED</strong><br>{{- $date.Format "January 02, 2006" -}}<br>{{- $author -}}<br>{{- $commit -}}</p>
