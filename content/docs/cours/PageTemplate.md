@@ -129,11 +129,11 @@ Il ne faut surtout pas faire ceci !!!
 {{< button href="https://www.he-arc.ch" >}}HE-Arc{{< /button >}}
 
 ## Tabs
-{{% tabs "id" %}}
-{{% tab "MacOS" %}} MacOS Content {{% /tab %}}
-{{% tab "Linux" %}} Linux Content {{% /tab %}}
-{{% tab "Windows" %}} Windows Content {{% /tab %}}
-{{% /tabs %}}
+{{< tabs "id" >}}
+{{< tab "MacOS" >}} MacOS Content {{< /tab >}}
+{{< tab "Linux" >}} Linux Content {{< /tab >}}
+{{< tab "Windows" >}} Windows Content {{< /tab >}}
+{{< /tabs >}}
 
 ## UML Diagrams (avec PlantUML)
 Le code PlantUML doit être placé entre les balises ***{{</* plantuml */>}}*** et ***{{</* /plantuml */>}}***.
