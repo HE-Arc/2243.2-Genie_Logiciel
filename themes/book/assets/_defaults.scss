@@ -42,9 +42,11 @@ $mobile-breakpoint: $menu-width + $body-min-width * 1.2 + $toc-width !default;
 
 // Hint colors
 $hint-colors: (
-  info: #6bf,
-  warning: #fd6,
-  danger: #f66
+  info: rgb(0, 0, 255),
+  success: rgb(0, 255, 0),
+  warning: rgb(250, 135, 27),
+  danger: rgb(255, 0, 0),
+  neutral: rgb(128, 128, 128)
 ) !default;
 
 $icon-filter: none !default;

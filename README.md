@@ -1,9 +1,9 @@
 # Live Demo
-Voir site de démo ici : http://benoit.lecallen.pages.ing.he-arc.ch/template_website/
+Voir site de démo ici : https://benoitlecallennec-hes.github.io/template_website_course/
 
 # Installation
 1. Forker le repo
-2. Lancer le pipeline
+2. Mettre une Action GitHub pour déployer le site
 
 # Édition en ligne
 1. Parcourir les fichiers dans le repo directement
@@ -14,8 +14,8 @@ Voir site de démo ici : http://benoit.lecallen.pages.ing.he-arc.ch/template_web
 
 # Édition en local
 1. Cloner le repo
-2. Installer Hugo. Dézipper le fichier `static/hugo.zip` dans le dossier `bin/` du repo.
-3. Lancer le serveur hugo avec la commande `bin/hugo.exe server`
+2. Installer Hugo
+3. Lancer le serveur hugo avec la commande `hugo server`
 4. Éditer les fichiers dans le dossier `content/`
 5. Visualiser les changements sur http://localhost:1313
 6. `commit` et `push` les changements

@@ -1,7 +1,5 @@
 <img id="plantuml-{{ .Get "id" }}"/>
 
-<script defer src="http://benoit.lecallen.pages.ing.he-arc.ch/template_website/plantuml/rawdeflate.js"></script>
-
 <script>
   // Based on https://plantuml.com/code-javascript-asynchronous
 
@@ -58,12 +56,8 @@
   /* The GitLab pages have local subdomains, and that messes everything up.
   So we use the PlantUML server to render the image and an absolute URL to the needed JS script when on production.
   */
-  var deflater_script_path = "http://benoit.lecallen.pages.ing.he-arc.ch/template_website/plantuml/rawdeflate.js";
-  if (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1")
-  {
-    deflater_script_path = "/plantuml/rawdeflate.js";
-  }
-  
+  var deflater_script_path = "{{ .Site.BaseURL }}plantuml/rawdeflate.js";
+
   var deflater = window.SharedWorker && new SharedWorker(deflater_script_path);
   if (deflater) {
     deflater.port.addEventListener('message', done_deflating, false);

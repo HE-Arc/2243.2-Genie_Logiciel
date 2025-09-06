@@ -25,21 +25,25 @@ weight: 10
 > Elle peut être sur plusieurs lignes.
 
 ## Emojis
-✅ ceci est une bonne pratique.
-
 📌 Une note qui demande à être d'approfondie
 
 📚 Une référence à étudier pour aller plus loin
 
-🔍 Une recherche à effectuer
-
-📝 Un exercice à faire
-
 ⇒ Implication de la ligne précédente
 
-🌶️ Une notion avancée
-
 ## Hints
+### Bonne pratique
+**Code**
+```
+{{</* bonne_pratique */>}}
+Il faut faire ceci, c'est une bonne pratique.
+{{</* /bonne_pratique */>}}
+```
+**Affichage**
+{{<bonne_pratique>}}
+Il faut faire ceci, c'est une bonne pratique.
+{{</bonne_pratique>}}
+
 ### À noter
 **Code**
 ```
@@ -51,6 +55,18 @@ Il faut noter ceci !!!
 {{<a_noter>}}
 Il faut noter ceci !!!
 {{</a_noter>}}
+
+### Notion avancée
+**Code**
+```
+{{</* notion_avancee */>}}
+Il s'agit d'une notion avancée.
+{{</* /notion_avancee */>}}
+```
+**Affichage**
+{{<notion_avancee>}}
+Il s'agit d'une notion avancée.
+{{</notion_avancee>}}
 
 ### Attention
 **Code**
@@ -123,11 +139,9 @@ Il ne faut surtout pas faire ceci !!!
 Le code PlantUML doit être placé entre les balises ***{{</* plantuml */>}}*** et ***{{</* /plantuml */>}}***.
 
 ### Exemple de diagrammes PlantUML
-{{<hint danger>}}
-**ATTENTION**
-
+{{<attention>}}
 Les id des graphes PlantUML doivent être différents.
-{{</hint>}}
+{{</attention>}}
 
 **Code**
 ```
@@ -286,15 +300,15 @@ Voici un texte avec une référence listée en bas de page [^hearc].
 ## Vidéos
 ### Youtube
 {{<youtube kWLO4ISf3bA>}}
-{{<hint danger >}}
-**ATTENTION :** il faut prendre l'id uniquement. En particulier, il ne faut pas mettre les guillemets.
-{{</hint >}}
+{{<attention>}}
+Il faut prendre l'id uniquement. En particulier, il ne faut pas mettre les guillemets.
+{{</attention>}}
 
 ### Playlist Youtube
 {{<youtubelist PLc3qvmVjY5p-x4EzSS50FCk6qzXG9JEHP>}}
-{{<hint danger >}}
-**ATTENTION :** il faut prendre l'id uniquement. En particulier, il ne faut pas mettre les guillemets.
-{{</hint >}}
+{{<attention>}}
+Il faut prendre l'id uniquement. En particulier, il ne faut pas mettre les guillemets.
+{{</attention>}}
 
 ### Vidéo MP4 hébergée ailleurs
 {{<video "http://enseignement.pages.ing.he-arc.ch/isc/cours/niveau-3/3292.2-infographie-unity/medias/Videos/Chapter6_final.mp4">}}
