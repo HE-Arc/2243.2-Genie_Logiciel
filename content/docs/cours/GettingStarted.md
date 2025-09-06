@@ -1,6 +1,7 @@
 ---
 title: "Getting Started"
 type: docs
+draft: true
 weight: 10
 ---
 # Gettings Started
