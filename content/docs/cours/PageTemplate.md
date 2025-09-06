@@ -311,11 +311,11 @@ Il faut prendre l'id uniquement. En particulier, il ne faut pas mettre les guill
 {{</attention>}}
 
 ### Vidéo MP4 hébergée ailleurs
-{{<video "http://enseignement.pages.ing.he-arc.ch/isc/cours/niveau-3/3292.2-infographie-unity/medias/Videos/Chapter6_final.mp4">}}
+{{<video "https://benoitlecallennec-hes.github.io/template_website_course/videos/Chapter6_final.mp4">}}
 
 ## Slides
 On peut intégrer des slides reveal.js :
-{{<slides "http://enseignement.pages.ing.he-arc.ch/isc/cours/niveau-3/3292.2-infographie-unity/slides/Chap6_Post-processing.html">}}
+{{<slides "https://enseignement.pages.ing.he-arc.ch/isc/cours/niveau-3/3292.2-infographie-unity/slides/Chap6_Post-processing.html">}}
 
 ## PDFs
 ### Avec un PDF dans le répertoire local ***static/pdfs***
