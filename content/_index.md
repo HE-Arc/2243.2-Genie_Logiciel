@@ -1,59 +1,67 @@
 ---
-title: 9999.9 Support de cours
+title: 2243.2/2245.2 Génie Logiciel
 type: docs
 ---
 
-# 9999.9 Page d'accueil pour le cours
+# 2243.2 Génie Logiciel 1 (SA)
 
-## Horaires et salles
-**Groupe ISC3il-a :** les jeudis de 8h15 à 10h45 en salle NE120.
+**Professeur :** Benoit Le Callennec
 
-**Groupe ISC3il-b :** les jeudis de 14h05 à 16h40 en salle NE120.
+**Groupes :** ISC2il-a et ISC2il-b
+
+**Horaires et salles :**
+Les lundis de 8h15 à 9h45 en salle NE120
+
+**TEAMS du cours :** [FB_2243.2 - Génie Logiciel 1 2024-2025](https://teams.microsoft.com/l/channel/19%3A_Ny5ok8khx9vmJhg87LXnyD-L0a6VzyoezF4utuyhYk1%40thread.tacv2/General?groupId=008e2898-b046-4eb7-9b36-c939de4d9495&tenantId=5b3b7d7d-e119-4d05-9022-f775f2e48e96)
 
 ## Calendrier
-Calendrier sujet à modifications.
+**Date à définir pour tous les groupes :** contrôle principal
 
-| Semaine | À VOIR / À LIRE / À FAIRE |
+Calendrier à titre informatif et sujet à modifications.
+
+| Semaine | Contenu |
 |---------|------------------|
-| #1  | CHAPITRE 0 : INTRODUCTION |
-| #1  | CHAPITRE 1 : CONCEPTS FONDAMENTAUX |
-| #2  | CHAPITRE 2 : --- |
-| #3  | CHAPITRE 3 : --- |
-| #4  | CHAPITRE 4 : --- |
-| #5  | CHAPITRE 5 : --- |
-| #6  | CHAPITRE 6 : --- |
-| #7  | CHAPITRE 7 : --- |
-| #8  | PROJET |
-| #9  | PROJET |
-| #10 | --- |
+|     | **`GESTION DE PROJET`** |
+| #1  | CHAPITRE 1 : INTRODUCTION |
+| #2  | CHAPITRE 2 : CYCLES DE VIE D'UN LOGICIEL |
+| #3  | CHAPITRE 3 : MÉTHODES DE DÉVELOPPEMENT |
+|     | **`CONCEPTION`** |
+| #4  | CHAPITRE 4 : MODÉLISATION FONCTIONNELLE |
+| #4' | **Semaine thématique**  |
+| #5  | CHAPITRE 5 : MODÉLISATION STRUCTURELLE |
+| #6  | CHAPITRE 6 : MODÉLISATION DYNAMIQUE |
+|     | **`RÉALISATION`** |
+| #7  | CHAPITRE 7 : NINJA & CMAKE |
+| #8  | CHAPITRE 8 : INTÉGRATION CONTINUE |
+| #8' | **Semaine de travail autonome / portes ouvertes** |
+| #9  | CHAPITRE 9 : GIT (RAPPELS) |
+| #10 | CHAPITRE 10 : GIT (PARTIE 2) |
+| #11 | CHAPITRE 11 : GIT (PARTIE 3) |
+| #12 | CHAPITRE 12 : GIT (PARTIE 4) |
+|     | Vacances |
+|     | Vacances |
+| #13 | **CP** |
+| #14 | - |
+| #15 | - |
 
-## Contrôle Principal
 
-**Jeudi 11 mai 2023 :** CP.
+# 2245.2 Génie Logiciel 2 (SP)
 
-## Projet
+**Professeur :** Benoit Le Callennec
 
-**Vendredi 12 mai 2023, 23h59 :** rendu final du projet.
+**Groupes :** ISC2il-a et ISC2il-b
 
-Ce projet se déroule par groupe de 3.
-Des changements sont toutefois possibles si besoin.
-Le but est de démontrer que vous connaissez les bases en intégrant plusieurs notions de manière pertinente dans un projet global.
+**Horaires et salles :**
+Les lundis de 8h15 à 9h45 en salle NE118
 
-Votre projet doit intégrer une majorité des points importants introduits en cours :
-- Concept #1
-- Concept #2
-- Concept #3
-- Concept #4
-- Concept #5
-- Concept #6
-- Concept #7
-
-  Il est aussi possible d'utiliser d'autres concepts non-abordés en cours.
-Il en sera tenu compte lors de l'évaluation finale du projet.
-
-### À RENDRE
-- **Repo git propre :** il faut pouvoir faire git clone et lancer l'application.
-- **Rapport :** il faut expliquer quoi regarder succinctement.
-Quelques pages suffisent.
-- **Vidéo de démo (avec voix-off et crédits) :** il faut démontrer les principales fonctionnalités de votre projet (2 minutes maximum).
-- **Un exécutable :** on double-clique, ça s'exécute.
+## Évaluation Génie Logiciel 2
+Le projet P2 SP sert de base pour le projet de Génie Logiciel 2.
+Si vous ne faites pas le projet P2 SP, vous devrez faire un projet de remplacement pour appliquer les concepts de Génie Logiciel 2 vus au semestre précédent.
+En plus des critères habituels pour les évaluations des projets P2, vous serez aussi évalués sur les critères suivants :
+- Utilisation du Git rebase workflow
+- CI/CD
+- CMake + Ninja
+- Doxygen (avec homepage)
+- Unit tests (avec utilisation)
+- GitLab (issues, milestones, wiki)
+- Qualité générale GELO

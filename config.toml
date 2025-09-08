@@ -1,7 +1,7 @@
-baseURL = "https://benoitlecallennec-hes.github.io/template_website_course/"
+baseURL = "https://he-arc.github.io/2243.2-Genie_Logiciel_1/"
 relativeURLs = false
 languageCode = "fr"
-title = "HE-Arc | 9999.9 Support de cours"
+title = "HE-Arc | 2243.2 Génie Logiciel"
 theme = "book"
 enableGitInfo = true
 
@@ -11,15 +11,6 @@ BookSearch = false
 [Taxonomies]
   tag = "tags"
 
-[markup]
-[markup.highlight]
-codeFences = true
-guessSyntax = false
-hl_Lines = ""
-lineNoStart = 1
-lineNos = false
-lineNumbersInTable = true
-noClasses = true
-style = "vs"
-
+[markup.goldmark.renderer]
+  unsafe= true
   
