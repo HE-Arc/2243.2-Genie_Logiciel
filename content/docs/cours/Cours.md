@@ -7,25 +7,25 @@ weight: 10
 
 ## Organisation du Cours
 
-[2243.2_00_OrganisationDuCours.pdf](/pdfs/2243.2_00_OrganisationDuCours.pdf)
+{{< pdf src="/pdfs/2243.2_00_OrganisationDuCours.pdf" >}}
 
 ## Chapitre 1
 
-[2243.2_01_Introduction.pdf](/pdfs/2243.2_01_Introduction.pdf)
+{{< pdf src="/pdfs/2243.2_01_Introduction.pdf" >}}
 
 ## Chapitre 2
 
-[2243.2_02_Cycle_de_vie_logiciel.pdf](/pdfs/2243.2_02_Cycle_de_vie_logiciel.pdf)
+{{< pdf src="/pdfs/2243.2_02_Cycle_de_vie_logiciel.pdf" >}}
 
 ## Chapitre 3
 
-[2243.2_03_MéthodologiesDeDéveloppement.pdf](/pdfs/2243.2_03_MéthodologiesDeDéveloppement.pdf)
+{{< pdf src="/pdfs/2243.2_03_MéthodologiesDeDéveloppement.pdf" >}}
 
-[scrum-guide-fr.pdf](/pdfs/scrum-guide-fr.pdf)
+{{< pdf src="/pdfs/scrum-guide-fr.pdf" >}}
 
 ## Chapitre 4
 
-[2243.2_04_ModélisationFonctionnelle.pdf](/pdfs/2243.2_04_ModélisationFonctionnelle.pdf)
+{{< pdf src="/pdfs/2243.2_04_ModélisationFonctionnelle.pdf" >}}
 
 ### Squelette de fichier plantuml UC
 
@@ -99,7 +99,7 @@ deactivate Member
 
 ## Chapitre 5
 
-[2243.2_05_ModélisationStructurelle.pdf](/pdfs/2243.2_05_ModélisationStructurelle.pdf)
+{{< pdf src="/pdfs/2243.2_05_ModélisationStructurelle.pdf" >}}
 
 ### Exemple de fichier plantuml
 
@@ -157,7 +157,7 @@ Ce qui donne le diagramme suivant :
 
 ## Chapitre 6
 
-[2243.2_06_ConceptionDynamique.pdf](/pdfs/2243.2_06_ConceptionDynamique.pdf)
+{{< pdf src="/pdfs/2243.2_06_ConceptionDynamique.pdf" >}}
 
 ### Exemple de fichier PlantUML
 ```
@@ -189,34 +189,32 @@ Ce qui donne le diagramme suivant :
 {{< figure src="/images/DiagrammeEtats.svg#center" width="100%">}}
 
 ## Chapitre 7 : NINJA & CMAKE
-[2243.2_07_IntroCMakeEtNinja.pdf](/pdfs/2243.2_07_IntroCMakeEtNinja.pdf)
+{{< pdf src="/pdfs/2243.2_07_IntroCMakeEtNinja.pdf" >}}
 
 ### Exemple de projet CMake
-[Hello_CMake.zip](/Hello_CMake.zip)
 
 ## Chapitre 8 : INTÉGRATION CONTINUE
-[2243.2_08_IntroGitLab_CICD.pdf](/pdfs/2243.2_08_IntroGitLab_CICD.pdf)
+{{< pdf src="/pdfs/2243.2_08_IntroGitLab_CICD.pdf" >}}
 
 ## Chapitre 9 : Introduction à GIT (rappels)
-[2243.2_09_Git_Intro.pdf](/pdfs/2243.2_09_Git_Intro.pdf)
+{{< pdf src="/pdfs/2243.2_09_Git_Intro.pdf" >}}
 
 ## Chapitre 10 : GIT, partie 2
-[2243.2_10_Git_Part2.pdf](/pdfs/2243.2_10_Git_Part2.pdf)
+{{< pdf src="/pdfs/2243.2_10_Git_Part2.pdf" >}}
 
 ## Chapitre 11 : GIT, partie 3
-[2243.2_11_Git_Part3.pdf](/pdfs/2243.2_11_Git_Part3.pdf)
+{{< pdf src="/pdfs/2243.2_11_Git_Part3.pdf" >}}
 
 ## Chapitre 12 : GIT, partie 4
-[2243.2_12_Git_Part4.pdf](/pdfs/2243.2_12_Git_Part4.pdf)
+{{< pdf src="/pdfs/2243.2_12_Git_Part4.pdf" >}}
 
 ## Contrôles Principaux (CP)
 
 ### 2023-2024
-[2023-2024_CP.pdf](/pdfs/CPs/2023-2024_CP.pdf)
+{{< pdf src="/pdfs/CPs/2023-2024_CP.pdf" >}}
 
 ### 2022-2023
-[2022-2023_CP.pdf](/pdfs/CPs/2022-2023_CP.pdf)
+{{< pdf src="/pdfs/CPs/2022-2023_CP.pdf" >}}
 
 ### 2021-2022
-[2021-2022_CP.pdf](/pdfs/CPs/2021-2022_CP.pdf)
-
+{{< pdf src="/pdfs/CPs/2021-2022_CP.pdf" >}}
