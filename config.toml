@@ -1,7 +1,7 @@
 baseURL = "https://he-arc.github.io/2243.2-Genie_Logiciel_1/"
 relativeURLs = false
 languageCode = "fr"
-title = "HE-Arc | 2243.2 Génie Logiciel"
+title = "HE-Arc 2243.2 Génie Logiciel"
 theme = "book"
 enableGitInfo = true
 
