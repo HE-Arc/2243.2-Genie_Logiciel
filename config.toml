@@ -13,4 +13,3 @@ BookSearch = false
 
 [markup.goldmark.renderer]
   unsafe= true
-  
