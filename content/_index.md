@@ -7,12 +7,11 @@ type: docs
 
 **Professeur :** Benoit Le Callennec
 
-**Groupes :** ISC2il-a et ISC2il-b
+**Groupe ISC2il** : les mardis de 13h15 à 14h50, en salle NE118
 
-**Horaires et salles :**
-Les lundis de 8h15 à 9h45 en salle NE120
+**Groupe ISC2id** : les mercredis de 10h00 à 11h35, en salle NE126
 
-**TEAMS du cours :** [FB_2243.2 - Génie Logiciel 1 2024-2025](https://teams.microsoft.com/l/channel/19%3A_Ny5ok8khx9vmJhg87LXnyD-L0a6VzyoezF4utuyhYk1%40thread.tacv2/General?groupId=008e2898-b046-4eb7-9b36-c939de4d9495&tenantId=5b3b7d7d-e119-4d05-9022-f775f2e48e96)
+**TEAMS du cours :** [FB_2243.2 - Génie Logiciel 2025-2026](https://teams.microsoft.com/l/channel/19%3Ai2yCUAfUP4WtEdVeEU6a-jzAqe-0ledzVB1oHzugXQY1%40thread.tacv2/G%C3%A9n%C3%A9ral?groupId=0489f677-0d60-4b47-9b87-e986814969c2&tenantId=5b3b7d7d-e119-4d05-9022-f775f2e48e96)
 
 ## Calendrier
 **Date à définir pour tous les groupes :** contrôle principal
