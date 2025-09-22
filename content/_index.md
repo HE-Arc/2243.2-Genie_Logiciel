@@ -22,7 +22,7 @@ Calendrier à titre informatif et sujet à modifications.
 |---------|------------------|
 |     | **`GESTION DE PROJET`** |
 | #1  | CHAPITRE 1 : INTRODUCTION |
-| #2  | CHAPITRE 2 : CYCLES DE VIE D'UN LOGICIEL |
+| #2  | CHAPITRE 2 : CYCLES DE VIE DE LOGICIELS |
 | #3  | CHAPITRE 3 : MÉTHODES DE DÉVELOPPEMENT |
 |     | **`CONCEPTION`** |
 | #4  | CHAPITRE 4 : MODÉLISATION FONCTIONNELLE |
