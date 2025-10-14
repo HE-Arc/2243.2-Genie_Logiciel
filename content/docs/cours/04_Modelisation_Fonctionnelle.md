@@ -106,7 +106,7 @@ deactivate System
 
  **Produire le **DSS** correspondant.**
 
-<!-- {{< plantuml id="DSS2">}}
+{{< plantuml id="DSS2">}}
 @startuml
 !pragma teoz true
 title Validation d'inscription (niveau système)
@@ -142,7 +142,7 @@ alt Rejet de la demande (ex: dossier incomplet)
   deactivate System
 end
 @enduml
-{{< /plantuml>}} -->
+{{< /plantuml>}}
 
 ### Exemple de DSS "atypique"
 Le diagramme suivant illustre un workflow complet pour la soumission d’un article à une conférence scientifique, incluant le dépôt sur arXiv et la gestion des artefacts (code et données).
