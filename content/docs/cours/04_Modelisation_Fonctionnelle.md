@@ -69,7 +69,7 @@ Le scénario principal est le suivant :
 
  **Produire le **DSS** correspondant.**
 
- <!-- {{< plantuml  id="DSS1">}}
+{{< plantuml  id="DSS1">}}
 @startuml
 !pragma teoz true
 title Demande d'inscription à un cours
@@ -97,7 +97,7 @@ end
 
 deactivate System
 @enduml
-{{< /plantuml >}} -->
+{{< /plantuml >}}
 
 2. **Validation de l’inscription par l’Administration**
 * L’Administrateur (ou le Secrétariat) s’authentifie.

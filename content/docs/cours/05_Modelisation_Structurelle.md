@@ -24,7 +24,6 @@ Voici les exigences fonctionnelles à modéliser :
 
 **Produire le diagramme de classes UML correspondant.**
 
-<!--
 {{< plantuml  id="Class1">}}
 @startuml
 hide circle
@@ -51,7 +50,6 @@ Auteur "0..*" <-- "1..*" Livre : est écrit par
 
 @enduml
 {{< /plantuml >}}
--->
 
 ### Exercice 2 — Studio de capture de mouvements
 Un studio réalise des sessions de capture de mouvement pour différents projets.
@@ -70,7 +68,6 @@ Voici les exigences fonctionnelles à modéliser :
 
 **Produire le diagramme de classes UML correspondant.**
 
-<!--
 {{< plantuml  id="Class2">}}
 @startuml
 hide circle
@@ -89,11 +86,11 @@ class Session {
 
 Projet *-- "0..*" Session : possède
 
-class Appareil {
+class "Appareil {abstract}" {
   +numSérie: String
   +marque: String
 }
-abstract Appareil
+abstract "Appareil {abstract}" 
 
 class Camera {
 }
@@ -102,11 +99,11 @@ class IMU {
 class Microphone {
 }
 
-Appareil <|-- Camera
-Appareil <|-- IMU
-Appareil <|-- Microphone
+"Appareil {abstract}" <|-- Camera
+"Appareil {abstract}" <|-- IMU
+"Appareil {abstract}" <|-- Microphone
 
-Session o-- "1..*" Appareil : utilise
+Session o-- "1..*" "Appareil {abstract}" : utilise
 
 class Clip {
   +id: String <<unique>>
@@ -125,5 +122,3 @@ Clip *-- "1..*" Frame : contient
 @enduml
 
 {{< /plantuml >}}
-
--->
