@@ -175,3 +175,10 @@ void World::Run()
 ### Exercice 2 - Comprendre le fonctionnement de CMake
 - Que se passe-t-il quand on modifie un fichier et qu'on recompile le projet ?
 - Que se passe-t-il pour le fichiers compilés précédemment ?
+
+### Exercice 3 - Ajuster le projet
+Modifier la structure du projet pour avoir les modules suivants :
+- Module **`GUI`** qui contiendra la GUI
+- Module **`Backend`** qui contiendra la logique métier
+- Module **`Middleware`** qui contiendra la communication entre la GUI et le Backend
+- Le fichier **`main.cpp`** doit se trouver à la racine du projet et utiliser les modules précédents.
