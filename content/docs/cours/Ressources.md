@@ -1,7 +1,7 @@
 ---
 title: "Ressources"
 type: docs
-weight: 10
+weight: 100
 ---
 # Ressources
 

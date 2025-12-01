@@ -3,7 +3,7 @@ title: "9 - Git Introduction (rappels)"
 type: docs
 weight: 10
 ---
-# Chapitre 9 : Introduction à GitLab CICD
+# Chapitre 9 : Git introduction (rappels)
 
 ## Slides
 
