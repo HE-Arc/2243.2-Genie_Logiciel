@@ -4,7 +4,7 @@ type: docs
 weight: 30
 ---
 # ISC2IDIE - Projet SP
-Durant ce semestre, vous devrez réaliser un projet en C++ dans le cadre du cours de Génie Logiciel 2.
+Durant ce semestre, vous devrez réaliser un projet dans le cadre du cours de Génie Logiciel 2.
 Il faudra appliquer les concepts vus durant le semestre précédent (CI/CD, tests unitaires, documentation, gestion de versions avec Git, etc.).
 Le projet se fera en groupe de 3–4 étudiants.
 
