@@ -53,6 +53,6 @@ Calendrier à titre informatif et sujet à modifications.
 
 **Assistant :** Rajinth Ravindranathan
 
-**Groupe ISC2id-ie** : les mardis de 12h30 à 14h00, en salle NE128
+**Groupe ISC2id-ie** : les mardis de 12h30 à 14h00, en salle NE134
 
 **Groupe ISC2il** : les mercredis de 10h00 à 11h35, en salle NE114
