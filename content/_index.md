@@ -5,16 +5,15 @@ type: docs
 
 # 2243.2/2245.2 Génie Logiciel
 
-**TEAMS du cours :** [FB_2243.2 - Génie Logiciel 2025-2026](https://teams.microsoft.com/l/channel/19%3Ai2yCUAfUP4WtEdVeEU6a-jzAqe-0ledzVB1oHzugXQY1%40thread.tacv2/G%C3%A9n%C3%A9ral?groupId=0489f677-0d60-4b47-9b87-e986814969c2&tenantId=5b3b7d7d-e119-4d05-9022-f775f2e48e96)
-
 
 ## 2243.2 Génie Logiciel 1 (SA)
 
 **Professeur :** Benoit Le Callennec
 
-**Groupe ISC2id et ISC2ie** : les mardis de 12h30 à 14h00, en salle NE128
+**Groupe ISC2il** : les mardis de 13h15 à 14h50, en salle NE118
 
-**Groupe ISC2il** : les mercredis de 10h00 à 11h35, en salle NE126
+**Groupe ISC2id et ISC2ie** : les mercredis de 10h00 à 11h35, en salle NE122
+
 
 ### Calendrier
 **Date à définir pour tous les groupes :** contrôle principal
@@ -53,6 +52,6 @@ Calendrier à titre informatif et sujet à modifications.
 
 **Assistant :** Rajinth Ravindranathan
 
-**Groupe ISC2id-ie** : les mardis de 12h30 à 14h00, en salle NE134
+**Groupe ISC2il** : les mardis de 13h15 à 14h50, en salle NE118
 
-**Groupe ISC2il** : les mercredis de 10h00 à 11h35, en salle NE114
+**Groupe ISC2id et ISC2ie** : les mercredis de 10h00 à 11h35, en salle NE122
