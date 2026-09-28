@@ -6,7 +6,9 @@ weight: 10
 # Chapitre 4 : Modélisation Fonctionnelle
 
 ## Slides
-{{< pdf src="/pdfs/2243.2_04_ModelisationFonctionnelle.pdf" >}}
+{{<slides "https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/04_Modelisation_fonctionnelle.html">}}
+
+[Version imprimable (faire CTRL+P)](https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/04_Modelisation_fonctionnelle.html?print-pdf)
 
 ## Exercices
 
