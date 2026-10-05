@@ -106,7 +106,6 @@ Le secrétariat est un cas particulier d’administrateur, limité à la validat
 
 **Produire le diagramme de cas d’utilisation UML**
 
-<!--
 {{< plantuml  id="UC1">}}
   @startuml
 left to right direction
@@ -142,8 +141,6 @@ UC_ViewGrades --> UC_Publish : includes
 @enduml
 {{< /plantuml >}}
 
--->
-
 ### Exercice 2 : Diagramme de séquence système
 En utilisant le même contexte que l’exercice 1, nous souhaitons modéliser le scénario d’inscription à un cours avec validation différée par l’administration (Administrateur ou Secrétariat).
 
@@ -158,7 +155,6 @@ Le scénario principal est le suivant :
 
  **Produire le **DSS** correspondant.**
 
-<!--
 {{< plantuml  id="DSS1">}}
 @startuml
 !pragma teoz true
@@ -189,8 +185,6 @@ deactivate System
 @enduml
 {{< /plantuml >}}
 
--->
-
 2. **Validation de l’inscription par l’Administration**
 * L’Administrateur (ou le Secrétariat) s’authentifie.
 * Il/elle **valide** l’inscription de l’Étudiant au cours.
@@ -198,7 +192,6 @@ deactivate System
 
  **Produire le **DSS** correspondant.**
 
-<!--
 {{< plantuml id="DSS2">}}
 @startuml
 !pragma teoz true
@@ -236,4 +229,3 @@ alt Rejet de la demande (ex: dossier incomplet)
 end
 @enduml
 {{< /plantuml>}}
--->
