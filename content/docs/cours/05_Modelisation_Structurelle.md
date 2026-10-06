@@ -6,7 +6,9 @@ weight: 10
 # Chapitre 5 : Modélisation Structurelle
 
 ## Slides
-{{< pdf src="/pdfs/2243.2_05_ModelisationStructurelle.pdf" >}}
+{{<slides "https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/05_Modelisation_structurelle.html">}}
+
+[Version imprimable (faire CTRL+P)](https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/05_Modelisation_structurelle?print-pdf)
 
 ## Exercices
 
@@ -24,6 +26,7 @@ Voici les exigences fonctionnelles à modéliser :
 
 **Produire le diagramme de classes UML correspondant.**
 
+<!--
 {{< plantuml  id="Class1">}}
 @startuml
 hide circle
@@ -50,6 +53,7 @@ Auteur "0..*" <-- "1..*" Livre : est écrit par
 
 @enduml
 {{< /plantuml >}}
+-->
 
 ### Exercice 2 — Studio de capture de mouvements
 Un studio réalise des sessions de capture de mouvement pour différents projets.
@@ -68,6 +72,7 @@ Voici les exigences fonctionnelles à modéliser :
 
 **Produire le diagramme de classes UML correspondant.**
 
+<!--
 {{< plantuml  id="Class2">}}
 @startuml
 hide circle
@@ -122,3 +127,4 @@ Clip *-- "1..*" Frame : contient
 @enduml
 
 {{< /plantuml >}}
+-->
