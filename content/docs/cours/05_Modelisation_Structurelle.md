@@ -72,9 +72,9 @@ Voici les exigences fonctionnelles à modéliser :
 
 **Produire le diagramme de classes UML correspondant.**
 
-<!--
 {{< plantuml  id="Class2">}}
 @startuml
+top to bottom direction
 hide circle
 skinparam classAttributeIconSize 0
 
@@ -127,4 +127,4 @@ Clip *-- "1..*" Frame : contient
 @enduml
 
 {{< /plantuml >}}
--->
+
