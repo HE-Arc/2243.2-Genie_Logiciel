@@ -6,7 +6,9 @@ weight: 10
 # Chapitre 6 : Modélisation Dynamique
 
 ## Slides
-{{< pdf src="/pdfs/2243.2_06_ModelisationDynamique.pdf" >}}
+{{<slides "https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/06_Modelisation_dynamique.html">}}
+
+[Version imprimable (faire CTRL+P)](https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/06_Modelisation_dynamique.html?print-pdf)
 
 ## Exercices
 
@@ -39,6 +41,7 @@ Lorsqu’un utilisateur lance le programme :
 2. **Modéliser le diagramme d'états en UML**
 3. **Ajouter les actions associées** aux transitions
 
+<!--
 {{< plantuml  id="FSM_SessionUtilisateur">}}
 @startuml
 top to bottom direction
@@ -64,3 +67,4 @@ Auth --> Auth : utiliserApplication
 @enduml
 
 {{< /plantuml >}}
+-->
