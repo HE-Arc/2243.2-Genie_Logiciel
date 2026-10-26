@@ -41,7 +41,6 @@ Lorsqu’un utilisateur lance le programme :
 2. **Modéliser le diagramme d'états en UML**
 3. **Ajouter les actions associées** aux transitions
 
-<!--
 {{< plantuml  id="FSM_SessionUtilisateur">}}
 @startuml
 top to bottom direction
@@ -67,4 +66,3 @@ Auth --> Auth : utiliserApplication
 @enduml
 
 {{< /plantuml >}}
--->

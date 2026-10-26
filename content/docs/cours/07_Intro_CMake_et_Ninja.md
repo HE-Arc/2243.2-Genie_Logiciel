@@ -7,7 +7,9 @@ weight: 10
 
 ## Slides
 
-{{< pdf src="/pdfs/2243.2_07_IntroCMakeEtNinja.pdf" >}}
+{{<slides "https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/07_Intro_CMake_et_Ninja.html">}}
+
+[Version imprimable (faire CTRL+P)](https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/07_Intro_CMake_et_Ninja.html?print-pdf)
 
 ## Exercices
 
