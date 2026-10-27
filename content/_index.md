@@ -27,18 +27,19 @@ Calendrier à titre informatif et sujet à modifications.
 | #2  | CHAPITRE 2 : CYCLES DE VIE DE LOGICIELS |
 | #3  | ~~CHAPITRE 3 : MÉTHODES DE DÉVELOPPEMENT~~ |
 |     | **`CONCEPTION`** |
-| #4  | CHAPITRE 4 : MODÉLISATION FONCTIONNELLE |
+| #3  | CHAPITRE 4 : MODÉLISATION FONCTIONNELLE |
+| #4  | CHAPITRE 5 : MODÉLISATION STRUCTURELLE |
 | #4' | **Semaine thématique**  |
-| #5  | CHAPITRE 5 : MODÉLISATION STRUCTURELLE |
-| #6  | CHAPITRE 6 : MODÉLISATION DYNAMIQUE |
+| #5  | CHAPITRE 6 : MODÉLISATION DYNAMIQUE |
 |     | **`RÉALISATION`** |
-| #7  | CHAPITRE 7 : NINJA & CMAKE |
-| #8  | CHAPITRE 8 : INTÉGRATION CONTINUE |
+| #6  | CHAPITRE 7 : NINJA & CMAKE |
+| #7  | CHAPITRE 8 : INTÉGRATION CONTINUE |
+| #8  | CHAPITRE 9 : GIT (RAPPELS) |
 | #8' | **Semaine de travail autonome / portes ouvertes** |
-| #9  | CHAPITRE 9 : GIT (RAPPELS) |
-| #10 | CHAPITRE 10 : GIT (PARTIE 2) |
-| #11 | CHAPITRE 11 : GIT (PARTIE 3) |
-| #12 | CHAPITRE 12 : GIT (PARTIE 4) |
+| #9 | CHAPITRE 10 : GIT (PARTIE 2) |
+| #10 | CHAPITRE 11 : GIT (PARTIE 3) |
+| #11 | CHAPITRE 12 : GIT (PARTIE 4) |
+| #12 | CHAPITRE 13 : Dev. Agentique (?) |
 |     | Vacances |
 |     | Vacances |
 | #13 | **CP** |
