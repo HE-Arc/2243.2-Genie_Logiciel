@@ -7,7 +7,9 @@ weight: 10
 
 ## Slides
 
-{{< pdf src="/pdfs/2243.2_08_IntroGitLab_CICD.pdf" >}}
+{{<slides "https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/08_Intro_GitLab_CICD.html">}}
+
+[Version imprimable (faire CTRL+P)](https://he-arc.github.io/2243.2-Genie_Logiciel-SLIDES/08_Intro_GitLab_CICD.html?print-pdf)
 
 ## Exercices
 
