@@ -34,12 +34,12 @@ Calendrier à titre informatif et sujet à modifications.
 |     | **`RÉALISATION`** |
 | #6  | CHAPITRE 7 : NINJA & CMAKE |
 | #7  | CHAPITRE 8 : INTÉGRATION CONTINUE |
-| #8  | CHAPITRE 9 : GIT (RAPPELS) |
+| #8  | CHAPITRE 9 : GIT, LE MODÈLE ET LA BOUCLE QUOTIDIENNE |
 | #8' | **Semaine de travail autonome / portes ouvertes** |
-| #9 | CHAPITRE 10 : GIT (PARTIE 2) |
-| #10 | CHAPITRE 11 : GIT (PARTIE 3) |
-| #11 | CHAPITRE 12 : GIT (PARTIE 4) |
-| #12 | CHAPITRE 13 : Dev. Agentique (?) |
+| #9 | CHAPITRE 10 : GIT, BRANCHES, INTÉGRATION ET RÉPARATION |
+| #10 | CHAPITRE 11 : GIT, SOUS LE CAPOT ET WORKTREES |
+| #11 | CHAPITRE 12 : Dev. Agentique 1 (?) |
+| #12 | CHAPITRE 13 : Dev. Agentique 2 (?) |
 |     | Vacances |
 |     | Vacances |
 | #13 | **CP** |
